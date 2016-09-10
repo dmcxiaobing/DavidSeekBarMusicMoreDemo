@@ -9,6 +9,30 @@
 其实是很简单的，这只是一个android的控件而已，实现方法是，首先
 我们在布局中引用seekbar。
 
+```
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <SeekBar
+        android:id="@+id/sb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_sb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="进度条:" />
+</LinearLayout>
+
+```
+然后，我们在java代码中实现SeekBar的监听事件。我这里监听事件，就随便打了一下log,当然，在项目中如果用了它，就做适当的事情就可以了。代码也很简单，如下：
+
+
 
 ```
 package davidseekbarmusicmoredemo.qq986945193.com.davidseekbarmusicmoredemo;
