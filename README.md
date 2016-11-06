@@ -1,7 +1,7 @@
 # DavidSeekBarMusicMoreDemo
 【Android】Android开发实现进度条效果，SeekBar的简单使用。音量，音乐播放进度，视频播放进度等
 
-作者：程序员小冰，GitHub主页：https://github.com/QQ986945193 
+作者：[程序员小冰](https://github.com/QQ986945193)
 
 新浪微博：http://weibo.com/mcxiaobing 
 
