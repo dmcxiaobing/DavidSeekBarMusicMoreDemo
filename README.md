@@ -7,7 +7,7 @@
 
 首先给大家看一下我们今天这个最终实现的效果图： 
 
-![这里写图片描述](http://img.blog.csdn.net/20160910133005975)
+![这里写图片描述](https://mcxiaobing.gitee.io/blog/img/github/DavidSeekBarMusicMoreDemo/20160910133005975.gif)
 
 当然，这里的进度，是我们手动触摸控制的。截图可能不是很明显。
 
@@ -103,4 +103,10 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 
-好了，介绍到此结束，如果帮到了你，欢迎fork，star。
+最后直接运行即可看到上面的效果。如果对您有帮助，欢迎star，fork。。。
+
+当然如果我的项目帮到了你，欢迎进行打赏，请作者喝杯茶。谢谢支持。
+
+![支付宝](https://mcxiaobing.gitee.io/blog/img/github/pay/zhifubao.png)
+
+![微信](https://mcxiaobing.gitee.io/blog/img/github/pay/weixin.png)
